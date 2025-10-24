@@ -12,7 +12,7 @@
 
 .footer__icons img {
   width: 30px;
-  cursor: pointer;
+  cursor: not-allowed;
 }
 
 .footer ul {

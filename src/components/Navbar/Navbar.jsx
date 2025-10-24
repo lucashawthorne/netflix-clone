@@ -26,7 +26,7 @@ const Navbar = () => {
       <div className="navbar__left">
         <img src={logo} alt="" />
         <ul>
-          <li>Home</li>
+          <li className='no-cursor'>Home</li>
           <li>TV Shows</li>
           <li>Movies</li>
           <li>New & Popular</li>
