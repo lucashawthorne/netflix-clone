@@ -36,7 +36,7 @@ const Player = () => {
 
   return (
     <div className="player">
-      <img src={back_arrow_icon} alt="" onClick={() => {navigate(`/`)}}/>
+      <img src={back_arrow_icon} alt="" onClick={() => {navigate(`/netflix-clone/`)}}/>
       <iframe
         width="90%"
         height="90%"
