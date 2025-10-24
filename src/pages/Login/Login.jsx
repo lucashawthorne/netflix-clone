@@ -81,6 +81,7 @@ const Login = () => {
               >
                 Sign Up
               </span>
+              <p>If you're just visiting, use "test@gmail.com" as your email and "testing" as your password 🙂</p>
             </p>
           ) : (
             <p>
